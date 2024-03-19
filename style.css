@@ -1514,7 +1514,11 @@ textarea {
   .leave-comment-area .contact-form,
   .medilife-contact-area .comment-form,
   .medilife-contact-area .contact-form {
-    margin-bottom: 100px; } }
+    margin-bottom: 100px; } 
+    .navbar-brand{
+      width: 80px;
+    }
+  }
 
 /* :: 20.0 Contact Area CSS */
 .single-contact {
@@ -1643,10 +1647,8 @@ textarea {
       color: #ffffff; }
     .all-icons-area .medilife-single-icon:hover span, .all-icons-area .medilife-single-icon:focus span {
       color: #ffffff; }
-      @media (max-width: 767){
-        #logo image{
-          width: 50px;
-        }
-      }    
+      
 
 /*# sourceMappingURL=style.css.map */
+
+
